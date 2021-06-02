@@ -1,4 +1,15 @@
-### Hi there 👋
+### 안녕하세요, 대단히 반갑습니다 👋
+
+- 자아실현의 욕구를 충족시키기 위해서 무던히 노력하는 개발자입니다. 😄
+
+<!-- - **저는 OS 지식을 중요하게 생각합니다.** Ubuntu에서 Arch Linux로 넘어가려고 고민중입니다.. ㅎ
+- **컴퓨터처럼 생각하려고 노력합니다.** 문제 발생했을 때 해결하는데 도움이 되더라구요..!
+- **AI, NLP에 관심이 많습니다!** 범용 인공지능이 개발될 때 관련 연구 분야의 선두주자가 되고 싶습니다! -->
+
+### Github Stats
+
+[![GGM's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggm1207&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ggm1207/ggm1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Wakeatime Stats
+
+[![GGM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ggm1207)](https://github.com/anuraghazra/github-readme-stats)
